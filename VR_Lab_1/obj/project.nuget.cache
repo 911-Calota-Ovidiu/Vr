@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uai/xEu+SsuLSBzlq7qL64dbz2yNS7WwFA5cryKKvfNOrZmbIRN/MTJ7YWu/4SyC8gZinwsRLZeFGdSUH/SHFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ovidiu\\Desktop\\VR\\VR_Lab_1\\VR_Lab_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ovidiu\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ovidiu\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
